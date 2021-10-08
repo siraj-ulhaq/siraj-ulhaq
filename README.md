@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siraj-ulhaq
-- 👀 I’m currently interested in coding and keeping healthy
+- 👀 I’m currently interested in maths and programming
 - 🌱 I’m currently learning python
 
 <!---
